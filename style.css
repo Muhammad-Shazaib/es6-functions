@@ -1,0 +1,14 @@
+h1 {
+    color: blue;
+    text-align: center;
+    font-size: 2em;
+    /* text-transform: uppercase; */
+    margin-top: 20px;
+    /* text-decoration: underline; */
+    padding: 10px;
+    border: 1px solid blue;
+    border-radius: 5px;
+    background-color: lightblue;
+    box-shadow: 2px 2px 5px rgba(0, 0, 255, 0.3);
+    
+}
